@@ -1,13 +1,13 @@
 ---
-title: "Test"
+title: ""
 layout: page
 permalink: "/research/"
 ---
 
 ## Working Papers
 
-<h2 style="color: #1565c0;">Optimal Learning with Slanted Information</h2>, with Emma Tao and Yanziyi Zhang.
-
+<p class="paper-title">Optimal Learning with Slanted Information</p>
+with Emma Tao and Yanziyi Zhang
 <details>
 <summary>Abstract</summary>
 
@@ -17,8 +17,8 @@ Not yet available.
 
 
 
-<h2 style="color: #1565c0;">Ambiguity Attitudes and Incentivised Belief Elicitation</h2>, with Junzhao Shi.
-
+<p class="paper-title">Ambiguity Attitudes and Incentivised Belief Elicitation</p>
+with Junzhao Shi
 <details>
 <summary>Abstract</summary>
 

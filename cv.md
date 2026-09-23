@@ -1,9 +1,7 @@
 ---
-title: "CV"
+title: ""
 layout: page
 permalink: "/cv/"
 ---
 
-# CV
-
-My curriculum vitae will be available here.
+My CV will be available here.
