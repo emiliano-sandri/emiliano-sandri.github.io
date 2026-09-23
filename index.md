@@ -15,11 +15,11 @@ show_call_box: false
     <h1>Emiliano Sandri</h1>
 
     <p>
-      I am a PhD candidate in Economics at [University].
+      I am an Economics PhD student at University College London.
     </p>
 
     <p>
-      My research interests are in [field 1], [field 2], and [field 3].
+      My research interests are in decision theory and information theory.
     </p>
   </div>
 

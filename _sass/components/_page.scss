@@ -7,10 +7,26 @@
   }
 }
 
+.paper-entry {
+  margin-bottom: 2.5rem;
+}
+
 .paper-title {
   color: #1565c0;
-  font-weight: bold;
-  margin-bottom: 0.25rem;
+  font-weight: 700;
+  margin: 0 0 0.2rem 0;
+}
+
+.paper-coauthors {
+  margin: 0 0 0.25rem 0;
+}
+
+.paper-abstract {
+  margin-top: 0;
+
+  summary {
+    cursor: pointer;
+  }
 }
 
 .home-profile {
