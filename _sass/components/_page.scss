@@ -21,8 +21,9 @@
   margin-bottom: 2.5rem;
 }
 
-.paper-title {
-  color: #1565c0;
+.paper-title,
+.paper-title a {
+  color: #1565c0 !important;
   font-weight: 700;
   margin: 0 0 0.2rem 0;
 }
