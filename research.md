@@ -4,7 +4,7 @@ layout: page
 permalink: "/research/"
 ---
 
-## Working Papers
+<h2 class="research-section-title">Working Papers</h2>
 
 <div class="paper-entry">
 <p class="paper-title">Optimal Learning with Slanted Information</p>
