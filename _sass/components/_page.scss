@@ -7,6 +7,16 @@
   }
 }
 
+.page-home .intro {
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  @include media-breakpoint-up(md) {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
+
 .paper-entry {
   margin-bottom: 2.5rem;
 }
@@ -40,15 +50,21 @@
   grid-column: 2;
   display: flex;
   justify-content: center;
+  align-items: center;
+}
 
-  img {
-    display: block;
-    width: 220px;
-    height: 220px;
-    max-width: 90%;
-    object-fit: cover;
-    border-radius: 50%;
-  }
+.profile-photo-frame {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.profile-photo-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
 .home-profile-text {
