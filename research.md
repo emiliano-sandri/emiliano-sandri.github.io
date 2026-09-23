@@ -4,6 +4,13 @@ layout: page
 permalink: "/research/"
 ---
 
-# Research
+## Optimal Learning with Slanted Information
 
-Research content will go here.
+*Draft coming soon*
+
+<details>
+<summary>Abstract</summary>
+
+This is where the abstract of the paper will go.
+
+</details>
