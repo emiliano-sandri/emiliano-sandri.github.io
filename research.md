@@ -4,9 +4,11 @@ layout: page
 permalink: "/research/"
 ---
 
-## Optimal Learning with Slanted Information
+## Working Papers
 
-*Draft coming soon*
+<h2 style="color: #1565c0;">Optimal Learning with Slanted Information</h2>
+
+with Emma Tao and Yanziyi Zhang
 
 <details>
 <summary>Abstract</summary>
