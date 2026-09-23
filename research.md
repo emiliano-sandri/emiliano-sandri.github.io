@@ -4,6 +4,8 @@ layout: page
 permalink: "/research/"
 ---
 
+## Working Papers
+
 <div class="paper-entry">
 <p class="paper-title">Optimal Learning with Slanted Information</p>
 <p class="paper-coauthors">with Emma Tao and Yanziyi Zhang</p>
