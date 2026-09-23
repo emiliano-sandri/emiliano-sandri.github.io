@@ -1,10 +1,12 @@
 ---
 title: 'Emiliano Sandri'
 layout: home
-description: 'Economics researcher'
+description: 'Economics PhD Student'
 show_call_box: false
 ---
 
 # Emiliano Sandri
 
-Welcome to my personal website.
+I am an Economics PhD student Economics at University College London.
+
+My research interests are in decision theory and information theory.
