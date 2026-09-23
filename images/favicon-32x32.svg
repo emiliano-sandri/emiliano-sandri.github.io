@@ -1,11 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect x="1" y="1" width="30" height="30" rx="7" fill="#163A5C" stroke="#D9E2EC" stroke-width="1"/>
+  <rect x="1" y="1" width="30" height="30" rx="7"
+        fill="#163A5C" stroke="#D9E2EC" stroke-width="1"/>
+
   <text
     x="16"
-    y="21"
+    y="22"
     text-anchor="middle"
     font-family="STIX Two Math, Cambria Math, Times New Roman, serif"
-    font-size="13"
+    font-size="19"
     fill="#FFFFFF">
     ℰ𝒮
   </text>
