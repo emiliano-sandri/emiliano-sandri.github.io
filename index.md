@@ -12,8 +12,6 @@ show_call_box: false
   </div>
 
   <div class="home-profile-text">
-    <h1>Emiliano Sandri</h1>
-
     <p>
       I am an Economics PhD student at University College London.
     </p>
