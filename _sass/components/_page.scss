@@ -13,10 +13,37 @@
   margin-bottom: 0.25rem;
 }
 
-.profile-photo {
-  width: 220px;
-  max-width: 100%;
-  height: auto;
-  border-radius: 6px;
-  margin-top: 1.5rem;
+.home-profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 3rem;
+  width: 100%;
+}
+
+.home-profile-photo {
+  flex: 0 0 30%;
+  max-width: 30%;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+
+.home-profile-text {
+  flex: 1;
+}
+
+@media (max-width: 767px) {
+  .home-profile {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .home-profile-photo {
+    flex: none;
+    max-width: 300px;
+    width: 70%;
+  }
 }
