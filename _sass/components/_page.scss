@@ -30,36 +30,46 @@
 }
 
 .home-profile {
-  display: flex;
-  align-items: flex-start;
-  gap: 3rem;
+  display: grid;
+  grid-template-columns: 20% 30% 30% 20%;
+  align-items: center;
   width: 100%;
 }
 
 .home-profile-photo {
-  flex: 0 0 30%;
-  max-width: 30%;
+  grid-column: 2;
+  display: flex;
+  justify-content: center;
 
   img {
     display: block;
-    width: 100%;
-    height: auto;
+    width: 220px;
+    height: 220px;
+    max-width: 90%;
+    object-fit: cover;
+    border-radius: 50%;
   }
 }
 
 .home-profile-text {
-  flex: 1;
+  grid-column: 3;
+  padding-left: 2rem;
 }
 
 @media (max-width: 767px) {
   .home-profile {
+    display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 1.5rem;
   }
 
   .home-profile-photo {
-    flex: none;
-    max-width: 300px;
-    width: 70%;
+    width: 100%;
+  }
+
+  .home-profile-text {
+    width: 100%;
+    padding-left: 0;
   }
 }
