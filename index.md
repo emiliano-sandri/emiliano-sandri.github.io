@@ -5,10 +5,22 @@ description: 'Economics PhD Student'
 show_call_box: false
 ---
 
-# Emiliano Sandri
+<div class="home-profile">
 
-I am an Economics PhD student at University College London.
+  <div class="home-profile-photo">
+    <img src="/images/profile.jpg" alt="Emiliano Sandri">
+  </div>
 
-My research interests are in decision theory and information theory.
+  <div class="home-profile-text">
+    <h1>Emiliano Sandri</h1>
 
-<img src="/images/profile.jpg" alt="Emiliano Sandri" class="profile-photo">
+    <p>
+      I am a PhD candidate in Economics at [University].
+    </p>
+
+    <p>
+      My research interests are in [field 1], [field 2], and [field 3].
+    </p>
+  </div>
+
+</div>
