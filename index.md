@@ -10,3 +10,5 @@ show_call_box: false
 I am an Economics PhD student at University College London.
 
 My research interests are in decision theory and information theory.
+
+<img src="/images/profile.jpg" alt="Emiliano Sandri" class="profile-photo">
