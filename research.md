@@ -17,8 +17,6 @@ Not yet available.
 </details>
 </div>
 
-
-
 <div class="paper-entry">
 <p class="paper-title">Ambiguity Attitudes and Incentivised Belief Elicitation</p>
 <p class="paper-coauthors">with Junzhao Shi</p>

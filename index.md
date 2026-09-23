@@ -21,10 +21,6 @@ show_call_box: false
     <p>
       My research interests are in decision theory and information theory.
     </p>
-
-    <p>
-      I earned my bachelor's and master's degree from Bocconi University.
-    </p>
   </div>
 
 </div>
