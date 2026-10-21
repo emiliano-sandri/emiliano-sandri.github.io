@@ -44,9 +44,9 @@
   max-width: 100%;
 }
 
-.paper-abstract p {
-  width: 100%;
-  max-width: 100%;
+.paper-abstract[open] p {
+  width: 90%;
+  max-width: 90%;
 }
 
 .home-profile {
