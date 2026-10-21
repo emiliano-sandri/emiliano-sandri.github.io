@@ -7,7 +7,7 @@ permalink: "/research/"
 <h2 class="research-section-title">Working Papers</h2>
 
 <div class="paper-entry">
-<p class="paper-title">[Optimal Learning with Uncertain Bias](/files/OptimalLearningUncertainBias.pdf)</p>
+<p class="paper-title" href="/files/OptimalLearningUncertainBias.pdf" target="_blank" rel="noopener noreferrer">Optimal Learning with Uncertain Bias</p>
 <p class="paper-coauthors">with Emma Tao and Yanziyi Zhang</p>
 <details class="paper-abstract">
 <summary>Abstract</summary>
