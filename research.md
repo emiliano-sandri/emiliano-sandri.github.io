@@ -7,23 +7,12 @@ permalink: "/research/"
 <h2 class="research-section-title">Working Papers</h2>
 
 <div class="paper-entry">
-<p class="paper-title">Optimal Learning with Slanted Information</p>
+<p class="paper-title">[Optimal Learning with Uncertain Bias](/files/OptimalLearningUncertainBias.pdf)</p>
 <p class="paper-coauthors">with Emma Tao and Yanziyi Zhang</p>
 <details class="paper-abstract">
 <summary>Abstract</summary>
 
-Not yet available.
-
-</details>
-</div>
-
-<div class="paper-entry">
-<p class="paper-title">Ambiguity Attitudes and Incentivised Belief Elicitation</p>
-<p class="paper-coauthors">with Junzhao Shi</p>
-<details class="paper-abstract">
-<summary>Abstract</summary>
-
-Not yet available.
+While biased information sources differ in informativeness, people may be more or less confident about the sources' slant. Learning choices are influenced by the trade-off between more informative and more confounded signals. This paper studies a dynamic information acquisition problem, where attention is distributed across sources with different precision and bias uncertainty. We characterise the optimal attention strategy. The set of consulted information sources gradually expands during the learning process. Precision alone determines the order in which sources enter the information diet, whereas bias uncertainty shapes the length of each learning stage. We further discuss how optimal learning adapts to changes in the information environment.
 
 </details>
 </div>

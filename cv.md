@@ -4,4 +4,4 @@ layout: page
 permalink: "/cv/"
 ---
 
-My CV will be available here.
+You can download my CV [here](/files/cv.pdf).
