@@ -22,6 +22,9 @@
 }
 
 .paper-entry {
+  width: 100%;
+  max-width: 900px;
+  box-sizing: border-box;
   margin-bottom: 2.5rem;
 }
 
@@ -37,11 +40,13 @@
 }
 
 .paper-abstract {
-  margin-top: 0;
+  width: 100%;
+  max-width: 100%;
+}
 
-  summary {
-    cursor: pointer;
-  }
+.paper-abstract p {
+  width: 100%;
+  max-width: 100%;
 }
 
 .home-profile {
