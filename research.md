@@ -15,7 +15,7 @@ permalink: "/research/"
 <p class="paper-coauthors">with
   Emma Tao
   and
-  <a href="https://https://www.yanziyi-zhang.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.yanziyi-zhang.com/" target="_blank" rel="noopener noreferrer">
     Yanziyi Zhang
   </a>
 </p>
