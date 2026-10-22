@@ -37,7 +37,13 @@ show_call_box: false
     Optimal Learning with Uncertain Bias
   </a>
 </p>
-<p class="paper-coauthors">with Emma Tao and Yanziyi Zhang</p>
+<p class="paper-coauthors">with
+  Emma Tao
+  and
+  <a href="https://https://www.yanziyi-zhang.com/" target="_blank" rel="noopener noreferrer">
+    Yanziyi Zhang
+  </a>
+</p>
 <details class="paper-abstract">
 <summary>Abstract</summary>
 
