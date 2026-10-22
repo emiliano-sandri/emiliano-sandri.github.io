@@ -8,8 +8,9 @@ main:
     weight: 2
 
   - name: "CV"
-    url: "/cv/"
+    url: "/files/Emiliano_Sandri_CV.pdf"
     weight: 3
+    new_tab: true
 
 footer:
   - name: "Home"
