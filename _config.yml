@@ -1,6 +1,7 @@
 baseurl: '/'
 permalink: pretty
 title: 'Emiliano Sandri'
+url: "https://emiliano-sandri.github.io"
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -15,6 +16,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
