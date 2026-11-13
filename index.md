@@ -1,7 +1,7 @@
 ---
 title: 'Emiliano Sandri | Economics PhD Student at UCL'
 layout: home
-description: 'Emiliano Sandri is an Economics PhD student at University College London. His main research interests are in decision theory and information theory.'
+description: 'I am an Economics PhD student at University College London. My main research interests are in decision theory and information theory.'
 show_call_box: false
 ---
 
@@ -22,7 +22,7 @@ show_call_box: false
     </p>
 
     <p>
-      My research interests are in decision theory and information theory.
+      My main research interests are in decision theory and information theory.
     </p>
 
   </div>
